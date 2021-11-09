@@ -15,8 +15,8 @@
 	<description>Order micro-service Springboot</description>
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>sarvesh-challawar</sonar.projectKey>
-   		<sonar.organization>Sarvesh-Challawar</sonar.organization>
+		<sonar.projectKeyr>rupanalluri</sonar.projectKey>
+   		<sonar.organization>RupaNalluri</sonar.organization>
    		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	
